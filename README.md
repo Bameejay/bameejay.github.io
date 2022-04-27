@@ -17,7 +17,7 @@ I'm a frontend developer with over a year of experience. I am a creative problem
 ---
 
 ## Experience
-I did some numbers of Frontend Development traning program at some reputable boorcamps.
+I did some number of Frontend Development traning program at some reputable boorcamps that earned be a certificate of completion
 
 ### **FRONTEND DEVELOPER**
 ### about.me/bameejay

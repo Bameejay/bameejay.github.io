@@ -22,7 +22,7 @@ I did some number of Frontend Development traning program at some reputable boor
 ### **FRONTEND DEVELOPER**
 ### about.me/bameejay
 
-I have an eye on Ui designg, Have Worked with team to build mobile website using mobile and desktop websites and also code them out with the frontend technologies
+I have an eye on UI designg, Have Worked with team to build mobile website using mobile and desktop websites and also code them out with the frontend technologies
 
 ### **SOFTWARE DEVELOPER**
 ### LAGOS, NIGERIA

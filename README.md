@@ -39,6 +39,6 @@ Worked on HTML, CSS, BOOTSTRAP, SASS, JavaScript AND REACT, I've collaborated on
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do fashion design.
+Apart from being a web developer, I am a graphics designer.
 
 I enjoy being outdoors, so i go for run everyday. I like to go to the gym, I love travelling so as to explore different cultures. When i am inside , I enjoy listening to music and play video games
